@@ -4,7 +4,7 @@
 
 [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c)，是首个对外公布的企业级Java开发手册，对整个业界都有重要的意义。
 
-我结合公司的内部经验，定制化了一些条目，后面会参考《Clean Code》、《Effective Java》等重磅资料不断完善。
+我们结合公司的内部经验，定制化了一些条目，后面会参考《Clean Code》、《Effective Java》等重磅资料不断完善。
 
 感谢C端组的小伙伴提供宝贵意见
 
