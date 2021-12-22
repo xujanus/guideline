@@ -1,2 +1,2 @@
-- [GitHub Project](https://github.com/vipshop/vjtools)
+- [GitHub Project](https://github.com/xujanus/guideline)
 - [Java Coding Guidelines](standard/)
