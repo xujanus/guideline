@@ -1,5 +1,1 @@
-All about java in vip.com
-
-- Standard
-- Core Libraries
-- Tools
+- [留言板](https://github.com/xujanus/guideline/issues)
