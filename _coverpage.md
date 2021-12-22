@@ -6,4 +6,4 @@
 - Tools
 
 [GitHub Project](https://github.com/xujanus/guideline)
-[Java Coding Guidelines](standard)
+[Java Coding Guidelines](standard/)
